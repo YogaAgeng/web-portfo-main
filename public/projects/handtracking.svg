@@ -1,0 +1,14 @@
+<svg width="1280" height="800" viewBox="0 0 1280 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="800" fill="#090909"/>
+  <rect x="90" y="100" width="1100" height="600" rx="24" fill="#111111"/>
+  <circle cx="398" cy="346" r="172" fill="#111827"/>
+  <path d="M330 432C310 382 318 318 346 276C364 246 391 216 421 207C443 200 460 212 464 239C468 263 462 284 468 313C474 281 492 245 514 221C534 198 558 188 577 201C592 213 597 234 595 254C591 290 564 334 546 377C531 414 527 446 500 470C470 497 418 506 382 492C362 484 342 462 330 432Z" fill="#3B82F6" fill-opacity="0.82"/>
+  <rect x="650" y="222" width="420" height="18" rx="9" fill="#4B5563"/>
+  <rect x="650" y="260" width="360" height="18" rx="9" fill="#374151"/>
+  <rect x="650" y="298" width="388" height="18" rx="9" fill="#374151"/>
+  <rect x="650" y="380" width="430" height="170" rx="18" fill="#101826"/>
+  <circle cx="790" cy="465" r="54" stroke="#3B82F6" stroke-width="4"/>
+  <circle cx="860" cy="445" r="22" fill="#3B82F6"/>
+  <circle cx="936" cy="500" r="16" fill="#F5F5F5" fill-opacity="0.7"/>
+  <text x="128" y="644" fill="#F5F5F5" font-family="Arial, sans-serif" font-size="38" font-weight="700">Interactive Hand-Tracking</text>
+</svg>

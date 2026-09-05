@@ -1,0 +1,13 @@
+<svg width="1280" height="800" viewBox="0 0 1280 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="800" fill="#0A0A0A"/>
+  <rect x="84" y="108" width="1112" height="584" rx="22" fill="#101010"/>
+  <rect x="128" y="156" width="300" height="240" rx="18" fill="#131D2C"/>
+  <rect x="456" y="156" width="300" height="240" rx="18" fill="#131313"/>
+  <rect x="784" y="156" width="368" height="240" rx="18" fill="#131313"/>
+  <path d="M180 336C220 280 266 232 335 202C370 222 417 274 440 336C384 360 277 374 180 336Z" fill="#3B82F6" fill-opacity="0.88"/>
+  <rect x="128" y="438" width="1024" height="34" rx="17" fill="#1F2937"/>
+  <rect x="128" y="494" width="760" height="20" rx="10" fill="#374151"/>
+  <rect x="128" y="534" width="690" height="20" rx="10" fill="#374151"/>
+  <rect x="128" y="574" width="810" height="20" rx="10" fill="#374151"/>
+  <text x="128" y="654" fill="#F3F4F6" font-family="Arial, sans-serif" font-size="38" font-weight="700">Object Detection Security Dashboard</text>
+</svg>

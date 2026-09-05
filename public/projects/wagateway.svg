@@ -1,0 +1,17 @@
+<svg width="1280" height="800" viewBox="0 0 1280 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="800" fill="#0B0B0B"/>
+  <rect x="100" y="110" width="1080" height="580" rx="24" fill="#121212"/>
+  <rect x="146" y="160" width="340" height="486" rx="20" fill="#0F172A"/>
+  <rect x="186" y="214" width="260" height="16" rx="8" fill="#3B82F6"/>
+  <rect x="186" y="252" width="180" height="16" rx="8" fill="#334155"/>
+  <rect x="186" y="290" width="220" height="16" rx="8" fill="#334155"/>
+  <rect x="530" y="160" width="602" height="94" rx="14" fill="#1F2937"/>
+  <rect x="530" y="274" width="602" height="94" rx="14" fill="#1F2937"/>
+  <rect x="530" y="388" width="602" height="94" rx="14" fill="#1F2937"/>
+  <rect x="530" y="502" width="602" height="94" rx="14" fill="#1F2937"/>
+  <circle cx="571" cy="207" r="10" fill="#3B82F6"/>
+  <circle cx="571" cy="321" r="10" fill="#3B82F6"/>
+  <circle cx="571" cy="435" r="10" fill="#3B82F6"/>
+  <circle cx="571" cy="549" r="10" fill="#3B82F6"/>
+  <text x="146" y="742" fill="#F5F5F5" font-family="Arial, sans-serif" font-size="38" font-weight="700">Custom WA Gateway</text>
+</svg>
