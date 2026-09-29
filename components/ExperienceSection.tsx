@@ -112,7 +112,7 @@ export function ExperienceSection() {
           <div className="lg:col-span-5 lg:sticky lg:top-32 relative z-10">
             <div className="flex items-center gap-3 text-xs font-bold tracking-[0.25em] text-[#ea4c24] uppercase mb-4">
               <span>[ 04 ]</span>
-              <span>CAREER & WORK HISTORY</span>
+              <span>EDUCATION & WORK HISTORY</span>
             </div>
 
             <h2 className="display-font text-5xl sm:text-6xl lg:text-7xl uppercase leading-[0.95] mb-6">
